@@ -1,13 +1,12 @@
 # Wolfram TeleTool Documentation
 **Wolfram TeleTool** - софт-менеджер сессий Pyrogram с удобным TUI, а также с удивительной гибкостью
 Установка зависимостей:
-<pre>
+
 ``` bash
 pip install https://github.com/KurimuzonAkuma/pyrogram/archive/dev.zip --force-reinstall
 pip install colorama
 pip install tgcrypto
 ```
-</pre>
 
 > Для начала работы требуется указать целевую сессию, либо сначало создайте ее либо сразу укажите путь во вкладке **2** либо в главном меню
 > а также настроить апи и прокси во вкладке **4** (все сохранятся в файле saves.jsonl)
